@@ -1,1 +1,1 @@
-# AWS-encryption
+# Encryption
